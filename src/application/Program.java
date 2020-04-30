@@ -11,6 +11,8 @@ public class Program {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Alteracao para o github");
 
 		Triangle x, y;
 		x = new Triangle();
